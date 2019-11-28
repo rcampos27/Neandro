@@ -1,0 +1,61 @@
+v 4
+file . "and_8b.vhdl" "833a1773a495c52f54b2792d1a60528634081619" "20191108181434.060":
+  entity and_8b at 1( 0) + 0 on 131;
+  architecture behavior of and_8b at 12( 168) + 0 on 132;
+file . "decoder.vhdl" "62287b942c895cd13c1b41acd1e96c6ef2da5fe7" "20191108181434.062":
+  entity decoder at 1( 0) + 0 on 133;
+  architecture behavior of decoder at 12( 171) + 0 on 134;
+file . "ffjk.vhdl" "588b696d513d0a254da12e403af8d45aefa71d7d" "20191108181434.065":
+  entity ffjk at 1( 0) + 0 on 135;
+  architecture behavior of ffjk at 12( 219) + 0 on 136;
+file . "ff_tipo_d.vhdl" "702747ddaf8545179657bfc1af1b85b69368dc1e" "20191108181434.067":
+  entity ff_tipo_d at 1( 0) + 0 on 137;
+  architecture behavior of ff_tipo_d at 12( 198) + 0 on 138;
+file . "flag_calc.vhdl" "be6f92286390471d465c4076f089dbf465042a11" "20191108181434.069":
+  entity flag_calc at 1( 0) + 0 on 139;
+  architecture behavior of flag_calc at 13( 210) + 0 on 140;
+file . "MeioSomador_1bit.vhdl" "a864edac2eaa0cc47872c8e82fb26a347869c345" "20191108181434.073":
+  entity meiosomador_1b at 1( 0) + 0 on 141;
+  architecture behavior of meiosomador_1b at 13( 169) + 0 on 142;
+file . "mux_2x1.vhdl" "3ab9ed82594ed1fa093b7eabfffe7b10220f6eff" "20191108181434.074":
+  entity mux_2x1 at 1( 0) + 0 on 143;
+  architecture behavior of mux_2x1 at 11( 177) + 0 on 144;
+file . "mux_2x8.vhdl" "6b09bf86916c05c766ecb856c9b5804774578b3f" "20191108181434.076":
+  entity mux_2x8 at 1( 0) + 0 on 145;
+  architecture behavior of mux_2x8 at 12( 237) + 0 on 146;
+file . "nand_3in.vhdl" "d6259856972fcbd4b5c6ed218cae8fcd8f66cf52" "20191108181434.077":
+  entity nand_3in at 1( 0) + 0 on 147;
+  architecture behavior of nand_3in at 11( 169) + 0 on 148;
+file . "not_8b.vhdl" "2994f81117297bd1121cb8a55b5c981bb14bef8d" "20191108181434.078":
+  entity not_8b at 1( 0) + 0 on 149;
+  architecture behavior of not_8b at 12( 162) + 0 on 150;
+file . "or_8b.vhdl" "e7f38eebc222a6299d5325534e6f9907e5733c06" "20191108181434.079":
+  entity or_8b at 1( 0) + 0 on 151;
+  architecture behavior of or_8b at 12( 166) + 0 on 152;
+file . "registrador_1b.vhdl" "84526ab50b918674479392c89dd6293314c705ec" "20191108181434.081":
+  entity registrador_1b at 1( 0) + 0 on 153;
+  architecture behavior of registrador_1b at 11( 190) + 0 on 154;
+file . "registrador_2b.vhdl" "64c74694023133698ef1aa105862a0ad2b82459f" "20191108181434.082":
+  entity registrador_2b at 1( 0) + 0 on 155;
+  architecture behavior of registrador_2b at 12( 255) + 0 on 156;
+file . "registrador_8b.vhdl" "212260ec99edbc04496d264299bddab0486fccd4" "20191108181434.084":
+  entity registrador_8b at 1( 0) + 0 on 157;
+  architecture behavior of registrador_8b at 12( 255) + 0 on 158;
+file . "somador_8b.vhdl" "27a848d8a492b8b4dd332375edccae9adb317b8a" "20191108181434.085":
+  entity somador_8b at 1( 0) + 0 on 159;
+  architecture behavior of somador_8b at 13( 198) + 0 on 160;
+file . "SomadorCompleto_1bit.vhdl" "fcfa925c7d59ea5d76ed755ac9791fd1b44799bf" "20191108181434.089":
+  entity somadorcompleto_1b at 1( 0) + 0 on 161;
+  architecture behavior of somadorcompleto_1b at 13( 173) + 0 on 162;
+file . "TB_decoder.vhdl" "cc0dd262be9f72d4c4e29845032f4d9a2e26bcbf" "20191108181434.090":
+  entity tb_decoder at 1( 0) + 0 on 163;
+  architecture behavior of tb_decoder at 8( 79) + 0 on 164;
+file . "TB_flag_calc.vhdl" "f194301927a276309f1393e48a02bfe00b68d82f" "20191108181434.091":
+  entity tb_flag_calc at 1( 0) + 0 on 165;
+  architecture behavior of tb_flag_calc at 8( 81) + 0 on 166;
+file . "TB_ULA.vhdl" "daa1597ccf25d12346c4df83bd102c07751b5a11" "20191108181434.092":
+  entity tb_ula at 1( 0) + 0 on 167;
+  architecture behavior of tb_ula at 8( 75) + 0 on 168;
+file . "ULA.vhdl" "5669515c0314c0c3516309d94dd06eb7d81df491" "20191108181434.094":
+  entity ula at 1( 0) + 0 on 169;
+  architecture behavior of ula at 16( 347) + 0 on 170;
