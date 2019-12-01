@@ -1,4 +1,40 @@
 v 4
-file . "Neander.vhdl" "fc79961ada8b2aefec853a65f7dc9babb45db9ba" "20191128153228.695":
-  entity neander at 1( 0) + 0 on 11;
-  architecture behavior of neander at 11( 116) + 0 on 12;
+file . "Neander.vhdl" "fc79961ada8b2aefec853a65f7dc9babb45db9ba" "20191201052207.617":
+  entity neander at 1( 0) + 0 on 201;
+  architecture behavior of neander at 11( 116) + 0 on 202;
+file . "ADD.vhdl" "19769d4f24c249e17ccb06b584041a37054db822" "20191201052207.613":
+  entity add at 1( 0) + 0 on 195;
+  architecture behavior of add at 12( 170) + 0 on 196;
+file . "ANDD.vhdl" "274629b9865ea6fd1cad4ceb14aa2e5e4d26f6f7" "20191201052207.614":
+  entity andd at 1( 0) + 0 on 197;
+  architecture behavior of andd at 12( 171) + 0 on 198;
+file . "LDA.vhdl" "b275eaac9c6e4f1fab91f494992175b0f3637abf" "20191201052207.615":
+  entity lda at 1( 0) + 0 on 199;
+  architecture behavior of lda at 22( 311) + 0 on 200;
+file . "NOP.vhdl" "c714e1afa570e7b9b11a4154216df9cfe4bc5c85" "20191201052207.620":
+  entity nop at 1( 0) + 0 on 203;
+  architecture behavior of nop at 22( 311) + 0 on 204;
+file . "NOTT.vhdl" "7d04a43242266cd86b9f78d67f37abdc68084cf5" "20191201052207.622":
+  entity nott at 1( 0) + 0 on 205;
+  architecture behavior of nott at 12( 171) + 0 on 206;
+file . "ORR.vhdl" "4b1941e4fcafb82ef6b40b2a41f969476c83eda9" "20191201052207.623":
+  entity orr at 1( 0) + 0 on 207;
+  architecture behavior of orr at 12( 170) + 0 on 208;
+file . "TB_ADD.vhdl" "687cc4fd11984dcaf88965decce8e763a1906e8c" "20191201052207.625":
+  entity tb_add at 1( 0) + 0 on 209;
+  architecture behavior of tb_add at 8( 75) + 0 on 210;
+file . "TB_AND.vhdl" "6c07a2f3d9b9081146eddac7c5c4f43bbae1dd0a" "20191201052207.627":
+  entity tb_and at 1( 0) + 0 on 211;
+  architecture behavior of tb_and at 8( 75) + 0 on 212;
+file . "TB_LDA.vhdl" "984688f030eede61b1ffef5bd830e78b05cd1385" "20191201052207.629":
+  entity tb_lda at 1( 0) + 0 on 213;
+  architecture behavior of tb_lda at 8( 75) + 0 on 214;
+file . "TB_NOP.vhdl" "152963cf6bb50decfdaac90a75cbe124bea0ce2e" "20191201052207.630":
+  entity tb_nop at 1( 0) + 0 on 215;
+  architecture behavior of tb_nop at 8( 75) + 0 on 216;
+file . "TB_NOT.vhdl" "365978a43e7bb95db16e793e70e4a772ee08592c" "20191201052207.633":
+  entity tb_not at 1( 0) + 0 on 217;
+  architecture behavior of tb_not at 8( 75) + 0 on 218;
+file . "TB_OR.vhdl" "0fe41a8ace54f4603c8a3b0ed82def53feb0df91" "20191201052207.635":
+  entity tb_or at 1( 0) + 0 on 219;
+  architecture behavior of tb_or at 8( 74) + 0 on 220;
